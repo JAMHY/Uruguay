@@ -1,2 +1,2 @@
-# Uruguay 🇺🇾
-git
+# Uruguay :uruguay:
+git commit
